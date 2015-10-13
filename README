@@ -1,7 +1,7 @@
 Xeer1update
 ======================
 
-Simple bash script for Xen Server 6.2
+Simple bash script for Xen Server 6.5 SP1
 
 - Downloads updates.xml from xenserver and parses it.
 - Sorts patches by timestamp and after that by filename in case that there is 2 with the same time stamp.
